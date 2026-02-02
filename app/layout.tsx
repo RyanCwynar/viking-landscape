@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BUSINESS_NAME | Free Mockup by Ryan Cwynar",
-  description: "A free website redesign mockup. This is a demo site created by Ryan Cwynar to showcase modern web design.",
+  title: "Viking Landscape Services | Free Mockup by Ryan Cwynar",
+  description: "A free website redesign mockup for Viking Landscape Services. Professional landscaping for Coral Springs, Boca Raton & South Florida.",
   authors: [{ name: "Ryan Cwynar", url: "https://ryancwynar.com" }],
   creator: "Ryan Cwynar",
   publisher: "Ryan Cwynar",
@@ -22,13 +22,13 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%232563eb' width='100' height='100' rx='15'/><text x='50' y='70' text-anchor='middle' font-size='60' fill='white' font-family='system-ui'>V</text></svg>",
+        url: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%2315803d' width='100' height='100' rx='15'/><text x='50' y='70' text-anchor='middle' font-size='60' fill='white' font-family='system-ui'>V</text></svg>",
         type: "image/svg+xml",
       },
     ],
   },
   openGraph: {
-    title: "BUSINESS_NAME | Free Mockup",
+    title: "Viking Landscape Services | Free Mockup",
     description: "A free website redesign mockup created by Ryan Cwynar",
     type: "website",
   },
